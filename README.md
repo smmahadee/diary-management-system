@@ -1,4 +1,4 @@
-Project Title: Entries Management System
+Project Title: Diary Management System
 ========================================
 
 This project is a simple Entries Management System built with PHP, supporting image upload and basic CRUD functionality. Users can create, view, and paginate through entries with attached images and metadata (such as titles, dates, and messages).
